@@ -91,6 +91,8 @@ Air pollution poses significant threats to human health, particularly affecting 
 | GopiKrishnan J       | Feature Engineering       |
 | Nanthitha K          | Documentation & Reporting |
 
+## college name: Sri Ramanujar Engineering College
+
 ## 🔗 GitHub Repository
 
 [https://github.com/sundar1415/project.git](https://github.com/sundar1415/project.git)
