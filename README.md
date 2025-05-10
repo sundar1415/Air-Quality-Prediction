@@ -39,6 +39,10 @@ Air pollution poses significant threats to human health, particularly affecting 
   * Peak pollution during evenings (likely traffic-related).
   * Strong NOx–NO2 correlation.
   * Seasonal trends observed.
+  * ### 📉 Daily Average CO and Benzene Concentrations
+
+![CO and Benzene](images/img%201.jpeg)
+
 
 ## 🧠 Feature Engineering
 
@@ -63,21 +67,21 @@ Air pollution poses significant threats to human health, particularly affecting 
 
 > Random Forest performed well on structured, non-linear datasets.
 
-## 📈 Results and Visualizations
+## 📈 Results and 
+### 📉 Daily Average Temperature and Humidity
+
+![Temperature and Humidity](images/img%202.jpeg)
+
+### 📈 NOx vs NO2 Concentrations
+
+![NOx vs NO2](images/img%203.jpeg)
+
 
 * Time-series plots of pollutants.
 * NOx vs NO2 scatter plot shows linear dependency.
 * Temperature vs Humidity dual-axis visualization.
 * Summary table of pollutant levels for initial days.
 * Feature importance: Temperature and humidity heavily influence CO and C6H6.
-* ### Daily Average CO and Benzene Concentrations
-![CO and Benzene](images/WhatsApp_Image_2025-05-10_at_10.04.56_PM.jpeg)
-
-### Daily Average Temperature and Humidity
-![Temperature and Humidity](images/WhatsApp_Image_2025-05-10_at_10.04.56_PM_(1).jpeg)
-
-### NOx vs NO2 Scatter Plot
-![NOx vs NO2](images/WhatsApp_Image_2025-05-10_at_10.04.57_PM.jpeg)
 
 
 ## 🧰 Tools & Technologies
