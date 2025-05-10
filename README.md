@@ -70,6 +70,15 @@ Air pollution poses significant threats to human health, particularly affecting 
 * Temperature vs Humidity dual-axis visualization.
 * Summary table of pollutant levels for initial days.
 * Feature importance: Temperature and humidity heavily influence CO and C6H6.
+* ### Daily Average CO and Benzene Concentrations
+![CO and Benzene](images/WhatsApp_Image_2025-05-10_at_10.04.56_PM.jpeg)
+
+### Daily Average Temperature and Humidity
+![Temperature and Humidity](images/WhatsApp_Image_2025-05-10_at_10.04.56_PM_(1).jpeg)
+
+### NOx vs NO2 Scatter Plot
+![NOx vs NO2](images/WhatsApp_Image_2025-05-10_at_10.04.57_PM.jpeg)
+
 
 ## 🧰 Tools & Technologies
 
